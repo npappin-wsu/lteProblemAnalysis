@@ -1,3 +1,10 @@
 pandas
 itables
 pyarrow
+geopandas
+contextily
+pygris
+h3pandas
+matplotlib
+folium
+mapclassify
